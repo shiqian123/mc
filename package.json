@@ -1,0 +1,22 @@
+{
+  "name": "kyle_mc",
+  "version": "1.0.0",
+  "description": "北京美嘉创想科技有限公司组件库",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiqian123/mc.git"
+  },
+  "keywords": [
+    "123456nm"
+  ],
+  "author": "all",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiqian123/mc/issues"
+  },
+  "homepage": "https://github.com/shiqian123/mc#readme"
+}
